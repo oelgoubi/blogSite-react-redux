@@ -11,7 +11,8 @@ const Contact =(props)=>{
    return (
        <div className="container">
           <h4 className="center">Contact</h4>
-          <p>Instead of having a css folder, you will find that the download instead contains many .scss files which contain the styles of individual components. Unfortunately, the browser cannot interpret Sass, so you must have your Sass compiler compile the scss/materialize.scss into a regular CSS file. At this point you can link this newly outputted file in your HTML page.</p>
+          <p>You can Reach me via email othmanelgoubi@gmail.com.</p>
+          <p>I will Reply to your message as soon as possible.</p>
        </div>
    )
 
